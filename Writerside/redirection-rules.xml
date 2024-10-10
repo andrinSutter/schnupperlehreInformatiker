@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="2c0d26fb">
+        <description>Created after removal of "Tag 2" from schnupperlehre</description>
+        <accepts>Tag-2.html</accepts>
+    </rule>
+    <rule id="1846d8c4">
+        <description>Created after removal of "Tag 1" from schnupperlehre</description>
+        <accepts>Tag-1.html</accepts>
+    </rule>
+</rules>
