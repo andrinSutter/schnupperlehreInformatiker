@@ -8,8 +8,6 @@ Es gibt einen Ablaufplan mit zusatz Informationen so ähnlich wie ein Modulplan.
 - Software/Programmierung
 - Hardware/Netzwerk
 
-https://machinelearningforkids.co.uk/
-
 ## Software/Programmierung
 
 Die Schnupperlernenden beginnen mit Doodle Code von Google um die Logik hinter dem Programmieren zu verstehen. Danach können sie mithilfe von CodeCombat spielerisch Python lernen.
@@ -19,3 +17,7 @@ Die Schnupperlernenden beginnen mit Doodle Code von Google um die Logik hinter d
 Zuerst sollen die Schüler die Bascics von PC Hardware lernen um anschliessend einen PC für sich zusammenstellen. 
 
 Anschliessend werden sie sich verschiedenen Schnittstellen anschauen und die wichtigsten für ihren PC oder ihr Arbeitsplatz wählen .
+
+## Zusatz
+
+Wenn gewisse Schüler schneller sind können sie noch etwas mit ai machen

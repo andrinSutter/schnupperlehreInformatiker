@@ -8,7 +8,9 @@
 
     <toc-element topic="overview.md">
         <toc-element toc-title="Timetable">
-        <toc-element topic="1-Tag.md"/>
+        <toc-element topic="1-Tag.md">
+            <toc-element topic="Tests.md"/>
+        </toc-element>
         <toc-element topic="2-Tag.md"/>
         </toc-element>
         <toc-element topic="Eigenständiges-Arbeiten.md">
@@ -17,8 +19,10 @@
                 <toc-element topic="CodeCombat.md"/>
             </toc-element>
             <toc-element toc-title="Hardware">
-
                 <toc-element topic="PC.md"/>
+            </toc-element>
+            <toc-element toc-title="Zusatz">
+                <toc-element topic="Zusatz.md"/>
             </toc-element>
         </toc-element>
     </toc-element>

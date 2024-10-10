@@ -1,6 +1,6 @@
 # CodeCombat
 
-Mithilfe von CodeCombat kann man spielerisch diverse Programmiersprachen erlernen. Die Schnupperlernenden werden das Python Level durchmachen. Je nach Vorerfahrung werden sie mehr als den ersten Nachmittag brauchen um das ganze durchzuarbeiten.
+Mithilfe von CodeCombat kann man spielerisch diverse Programmiersprachen erlernen. Die Schnupperlernenden werden, dass Python Level durchmachen. Je nach Vorerfahrung werden sie mehr als den ersten Nachmittag brauchen um das ganze durchzuarbeiten.
 
 - [CodeCombat](https://codecombat.com/)
 
