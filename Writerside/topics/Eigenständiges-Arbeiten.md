@@ -1,6 +1,6 @@
 # Eigenständiges Arbeiten
 
-Das Eigenständige Arbeiten wird auf zwei Themenbereiche aufgeteilt. Es darf durch den Schnupperlernenden selber entschieden werden wie begonnen wird.
+Das eigenständige Arbeiten wird auf zwei Themenbereiche aufgeteilt. Es darf durch den Schnupperlernenden selber entschieden werden wie begonnen wird.
 
 Es gibt einen Ablaufplan mit zusatz Informationen so ähnlich wie ein Modulplan. 
 
@@ -14,10 +14,14 @@ Die Schnupperlernenden beginnen mit Doodle Code von Google um die Logik hinter d
 
 ## Hardware/Netzwerk
 
-Zuerst sollen die Schüler die Bascics von PC Hardware lernen um anschliessend einen PC für sich zusammenstellen. 
+Sie nehmen einen PC auseinander und ordnen die Teile den richtigen Begriffen zu
 
-Anschliessend werden sie sich verschiedenen Schnittstellen anschauen und die wichtigsten für ihren PC oder ihr Arbeitsplatz wählen .
+Sie sollen einen Arbeitsplatz mit den richtigen Schnittstellen versehen und richtig Anschliessen
+
+<!-- Zuerst sollen die Schüler die Basics von PC Hardware lernen um anschliessend einen PC für sich zusammenstellen. 
+
+ Anschliessend werden sie sich verschiedenen Schnittstellen anschauen und die wichtigsten für ihren PC oder ihr Arbeitsplatz wählen. -->
 
 ## Zusatz
 
-Wenn gewisse Schüler schneller sind können sie noch etwas mit ai machen
+Wenn gewisse Schüler schneller sind, können sie noch etwas mit ai machen
