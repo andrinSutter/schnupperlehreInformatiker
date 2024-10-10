@@ -11,8 +11,8 @@ permissions:
   actions: write
 
 env:
-  INSTANCE: 'Writerside/schnupperlehre'
-  ARTIFACT: 'webHelpSCHNUPPERLEHRE2-all.zip'
+  INSTANCE: 'Writerside/s'
+  ARTIFACT: 'webHelpS2-all.zip'
   DOCKER_VERSION: '241.18775'
 
 jobs:
