@@ -12,6 +12,17 @@ Ein Monitor soll mit einem Endgerät verbunden werden dazu passende Peripheriege
 
 Wenn nötig kann ihnen ein Lernender helfen. 
 
+### Materialliste
+
+- HDMI
+- Displayport
+- VGA
+- Stromkabel Laptop und Monitor
+- Laptop
+- Monitor
+- Maus
+- Tastatur
+
 <!--# PC Arbeitsplatz
 
 ## Basics
